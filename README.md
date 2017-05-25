@@ -9,3 +9,6 @@ A chat application using Node.js web framework express and Socket.IO for bidirec
 * Create an index.html page to be served by the application using sendFile instead
 * Integrate Socket.io
 
+
+
+https://socket.io/get-started/chat/
